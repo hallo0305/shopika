@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Internet & Network Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_shopika_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_shopika_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Shopika"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+
+        <!-- 1. Splash Screen Launcher -->
+        <activity
+            android:name=".ui.splash.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Shopika.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 2. Main Dashboard Activity (Hosts Beranda, Kategori, Keranjang, Favorit, Profil) -->
+        <activity
+            android:name=".ui.main.MainActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 3. Daftar Produk Activity -->
+        <activity
+            android:name=".ui.product.ProductListActivity"
+            android:exported="false" />
+
+        <!-- 4. Detail Produk Activity -->
+        <activity
+            android:name=".ui.product.ProductDetailActivity"
+            android:exported="false" />
+
+        <!-- 5. Pencarian Activity -->
+        <activity
+            android:name=".ui.search.SearchActivity"
+            android:exported="false"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+
+        <!-- 6. Keranjang Activity -->
+        <activity
+            android:name=".ui.cart.CartActivity"
+            android:exported="false" />
+
+        <!-- 7. Checkout Activity -->
+        <activity
+            android:name=".ui.checkout.CheckoutActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <!-- 8. Simulasi Pembayaran Activity -->
+        <activity
+            android:name=".ui.payment.PaymentActivity"
+            android:exported="false" />
+
+        <!-- 9. Status Pesanan Activity -->
+        <activity
+            android:name=".ui.order.OrderStatusActivity"
+            android:exported="false" />
+
+        <!-- 10. Riwayat Pesanan Activity -->
+        <activity
+            android:name=".ui.order.OrderHistoryActivity"
+            android:exported="false" />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+## ========================================================================
+## SHOPIKA - LOCAL PROPERTIES TEMPLATE
+## Projek UAS Pemrograman Mobile Dasar
+## ========================================================================
+## File ini berisi contoh konfigurasi kredensial lokal yang aman.
+## Jangan melakukan commit kredensial asli ke repositori Git publik.
+
+## 1. Lokasi Android SDK (otomatis disetel oleh Android Studio):
+sdk.dir=C\:\\Users\\nuris\\AppData\\Local\\Android\\Sdk
+
+## 2. Konfigurasi Backend Supabase Cloud (Opsional):
+## Dapatkan dari Dashboard Supabase: Project Settings -> API
+## Jika dikosongkan, aplikasi secara otomatis menggunakan mode MOCK_SANDBOX.
+# supabase.url=https://YOUR_PROJECT_ID.supabase.co
+# supabase.anon.key=eyJhbGciOi...YOUR_ANON_PUBLIC_KEY...

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shopika Brand Dark Theme Palette -->
+    <color name="primary">#FF7E60</color>
+    <color name="primary_dark">#E65336</color>
+    <color name="primary_light">#52291E</color>
+    <color name="primary_container">#381D17</color>
+    
+    <color name="background">#171413</color>
+    <color name="surface">#221E1C</color>
+    <color name="card_background">#24201E</color>
+    
+    <color name="text_primary">#F8EFEA</color>
+    <color name="text_secondary">#ABA29D</color>
+    <color name="text_hint">#776E69</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    
+    <color name="border">#3B3430</color>
+    <color name="divider">#332D2A</color>
+    
+    <color name="success">#34C085</color>
+    <color name="success_container">#123625</color>
+    <color name="error">#E05656</color>
+    <color name="error_container">#3D1616</color>
+    <color name="warning">#FFAE26</color>
+    <color name="warning_container">#3A2B0E</color>
+    
+    <color name="rating_star">#FFB81E</color>
+    <color name="chip_bg">#312B28</color>
+    <color name="badge_bg">#43231B</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Shopika</string>
+    <string name="tagline">Belanja Mudah, Pilihan Tanpa Batas</string>
+    <string name="search_hint">Cari produk, kategori, atau promo...</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_category">Kategori</string>
+    <string name="nav_cart">Keranjang</string>
+    <string name="nav_wishlist">Favorit</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Sections -->
+    <string name="promo_banner_title">Pesta Diskon Spesial</string>
+    <string name="promo_banner_subtitle">Cashback s/d 50% &amp; Bebas Ongkir Hari Ini</string>
+    <string name="categories_title">Kategori Pilihan</string>
+    <string name="popular_products_title">Produk Terpopuler</string>
+    <string name="recommended_products_title">Rekomendasi Untukmu</string>
+    <string name="see_all">Lihat Semua</string>
+
+    <!-- Detail -->
+    <string name="product_detail">Detail Produk</string>
+    <string name="stock_label">Stok Tersedia:</string>
+    <string name="variant_label">Pilih Varian:</string>
+    <string name="quantity_label">Jumlah:</string>
+    <string name="description_label">Deskripsi Produk</string>
+    <string name="btn_add_to_cart">Tambah ke Keranjang</string>
+    <string name="btn_buy_now">Beli Sekarang</string>
+
+    <!-- Cart -->
+    <string name="cart_title">Keranjang Belanja</string>
+    <string name="select_all">Pilih Semua</string>
+    <string name="total_payment">Total Pembayaran</string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="cart_empty_title">Keranjangmu Masih Kosong</string>
+    <string name="cart_empty_desc">Yuk, jelajahi ribuan produk terbaik dan tambahkan ke keranjangmu sekarang!</string>
+    <string name="btn_start_shopping">Mulai Belanja</string>
+
+    <!-- Checkout -->
+    <string name="checkout_title">Pengiriman &amp; Checkout</string>
+    <string name="shipping_address_title">Alamat Pengiriman</string>
+    <string name="recipient_name_sample">Raffi Nur Islami</string>
+    <string name="recipient_phone_sample">+62 812-3456-7890</string>
+    <string name="recipient_address_sample">Jl. Pemuda No. 45, Sunyaragi, Kec. Kesambi, Kota Cirebon, Jawa Barat 45132</string>
+    <string name="shipping_courier_title">Opsi Pengiriman</string>
+    <string name="shipping_regular">Reguler (2–3 Hari)</string>
+    <string name="shipping_express">Express (1 Hari)</string>
+    <string name="order_summary_title">Ringkasan Pembayaran</string>
+    <string name="subtotal_product">Subtotal Produk</string>
+    <string name="shipping_fee">Biaya Pengiriman</string>
+    <string name="order_note_hint">Tulis catatan pesanan (opsional)...</string>
+    <string name="btn_create_order">Buat Pesanan</string>
+
+    <!-- Payment -->
+    <string name="payment_title">Pembayaran</string>
+    <string name="payment_va_title">Virtual Account BCA</string>
+    <string name="va_number_sample">123 456 7890</string>
+    <string name="payment_simulation_disclaimer">⚠️ SIMULASI PEMBAYARAN UAS: Ini adalah simulasi sistem transaksi untuk projek UAS Pemrograman Mobile Dasar. Tidak ada pemotongan saldo perbankan nyata.</string>
+    <string name="btn_simulate_pay_success">Simulasikan Bayar Berhasil</string>
+    <string name="btn_check_payment_status">Cek Status Pembayaran</string>
+    <string name="copy_va">Salin</string>
+    <string name="va_copied">Nomor Virtual Account disalin ke clipboard</string>
+
+    <!-- Order Status -->
+    <string name="order_status_title">Status Pesanan</string>
+    <string name="status_pending">Menunggu Pembayaran</string>
+    <string name="status_paid">Pembayaran Berhasil</string>
+    <string name="status_failed">Pembayaran Dibatalkan / Gagal</string>
+    <string name="btn_back_to_home">Kembali ke Beranda</string>
+    <string name="btn_view_order_history">Lihat Riwayat Pesanan</string>
+
+    <!-- Wishlist -->
+    <string name="wishlist_title">Favorit Saya</string>
+    <string name="wishlist_empty_title">Belum Ada Favorit</string>
+    <string name="wishlist_empty_desc">Tandai produk yang kamu sukai dengan ikon hati agar mudah ditemukan kembali.</string>
+
+    <!-- Search -->
+    <string name="search_title">Pencarian Produk</string>
+    <string name="search_no_result_title">Produk Tidak Ditemukan</string>
+    <string name="search_no_result_desc">Coba gunakan kata kunci lain atau periksa ejaan pencarianmu.</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profil Akun</string>
+    <string name="user_name_sample">Raffi Nur Islami</string>
+    <string name="user_email_sample">nurislamiraffi@gmail.com</string>
+    <string name="user_tier_sample">Shopika Gold Member</string>
+    <string name="menu_orders">Pesanan Saya</string>
+    <string name="menu_address">Daftar Alamat (Kota Cirebon)</string>
+    <string name="menu_payment">Metode Pembayaran Tersimpan</string>
+    <string name="menu_help">Pusat Bantuan &amp; FAQ</string>
+    <string name="menu_settings">Pengaturan Aplikasi</string>
+    <string name="btn_logout">Keluar Akun</string>
+</resources>

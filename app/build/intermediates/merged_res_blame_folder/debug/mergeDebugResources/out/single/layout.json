@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_checkout.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\item_order_history.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\item_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\item_product_card.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\item_product_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\fragment_cart.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_product_detail.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "com.shopika.app-mergeDebugResources-2:/layout/activity_checkout.xml",
+        "source": "com.shopika.app-main-5:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_order_status.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_order_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_order_history.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\item_category_chip.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\item_category_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_payment.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\activity_product_list.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\fragment_wishlist.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\fragment_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\item_checkout_product.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\item_checkout_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-mergeDebugResources-2:\\layout\\item_cart_product.xml",
+        "source": "C:\\Users\\nuris\\.gradle\\daemon\\9.5.0\\com.shopika.app-main-5:\\layout\\item_cart_product.xml"
+    }
+]
